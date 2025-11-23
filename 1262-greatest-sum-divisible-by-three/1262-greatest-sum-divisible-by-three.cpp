@@ -1,14 +1,14 @@
 class Solution {
 public:
-    long long solve(vector<int>& nums, int i, int rem, vector<vector<long long>>& dp) {
+    long long solve(vector<int>& nums, int i, int sumMod, vector<vector<long long>>& dp) {
         if (i == nums.size()) {
-            return (rem == 0 ? 0LL : LLONG_MIN/4);
+            return (sumMod == 0 ? 0LL : LLONG_MIN/4);
         }
-        if (dp[i][rem] != LLONG_MIN) return dp[i][rem];
-        long long pick = nums[i] + solve(nums, i + 1, (rem + nums[i]) % 3, dp);
-        long long skip = solve(nums, i + 1, rem, dp);
+        if (dp[i][sumMod] != LLONG_MIN) return dp[i][sumMod];
+        long long pick = nums[i] + solve(nums, i + 1, (sumMod + nums[i]) % 3, dp);
+        long long skip = solve(nums, i + 1, sumMod, dp);
 
-        return dp[i][rem] = max(pick, skip);
+        return dp[i][sumMod] = max(pick, skip);
     }
 
     int maxSumDivThree(vector<int>& nums) {
