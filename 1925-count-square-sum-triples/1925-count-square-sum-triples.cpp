@@ -4,11 +4,23 @@ public:
         int cnt = 0;
         for(int i = 1; i <= n; i++)
         {
-            for(int j = 1; j <= n; j++)
+            long long target = i*i;
+            long long lo = 1;
+            long long hi = target - 1;
+            while(lo <= hi) 
             {
-                long long x = ((i*i) + (j*j)); 
-                long long c = (long long) llround(sqrt((long double)x));
-                if (c <= n && c * c == x) ++cnt;
+                long long x = ((1LL*lo*lo) + (1LL*hi*hi));
+                if(x == target) {
+                    cnt += 2;
+                    lo++;
+                    hi--;
+                }
+                else if(x < target) {
+                    lo++;
+                }
+                else {
+                    hi--;
+                }
             }
         }
         return cnt;
