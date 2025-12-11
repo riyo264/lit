@@ -16,31 +16,40 @@ public:
         int n = word1.size();
         int m = word2.size();
         vector<vector<int>> dp(n+1, vector<int>(m+1, -1)); // n+1 & m+1 is for 1-based indexing
-        int ans = solve(word1, word2, dp, n, m);
-        return ans;
+        // int ans = solve(word1, word2, dp, n, m);  // for 0-based indexing pass n-1 & m-1
+        // return ans;
 
         // Tabulation is in 1-based indexing
-        // vector<vector<int>> tab(n+1, vector<int>(m+1, 0));
-        // for(int i = 0; i <= n; i++)
-        // {
-        //     tab[i][0] = i;
-        // }
-        // for(int j = 0; j <= m; j++)
-        // {
-        //     tab[0][j] = j;
-        // }
-        // for(int i = 1; i <= n; i++)
-        // {
-        //     for(int j = 1; j <= m; j++)
-        //     {
-        //         if(word1[i-1] == word2[j-1]) {
-        //             tab[i][j] = 0 + tab[i-1][j-1];
-        //         }
-        //         else {
-        //             tab[i][j] = 1 + min(tab[i-1][j], min(tab[i][j-1], tab[i-1][j-1]));
-        //         }
-        //     }
-        // }
-        // return tab[n][m];
+        vector<vector<int>> tab(n+1, vector<int>(m+1, 0));
+        for(int i = 0; i <= n; i++)
+        {
+            tab[i][0] = i;
+        }
+        for(int j = 0; j <= m; j++)
+        {
+            tab[0][j] = j;
+        }
+
+        // Space optimization
+        vector<int> prev(m+1, 0), cur(m+1, 0);
+        for(int i = 0; i <= m; i++)
+        {
+            prev[i] = i;
+        }
+        for(int i = 1; i <= n; i++)
+        {
+            cur[0] = i;
+            for(int j = 1; j <= m; j++)
+            {
+                if(word1[i-1] == word2[j-1]) {
+                    cur[j] = 0 + prev[j-1];
+                }
+                else {
+                    cur[j] = 1 + min(prev[j], min(cur[j-1], prev[j-1]));
+                }
+            }
+            prev = cur;
+        }
+        return prev[m];
     }
 };
