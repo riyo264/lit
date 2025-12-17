@@ -22,7 +22,7 @@ public:
         // vector<vector<int>> dp(n, vector<int>(2, -1));
         // return solve(0, 1, prices, dp);
 
-        vector<vector<int>> tab(n+1, vector<int>(2, 0));
+        // vector<vector<int>> tab(n+1, vector<int>(2, 0));
         vector<int> cur(2, 0), ahead(2, 0);
         for(int i = n-1; i >= 0; i--)
         {
