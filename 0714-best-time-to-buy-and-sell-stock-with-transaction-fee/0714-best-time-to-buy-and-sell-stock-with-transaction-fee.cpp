@@ -19,21 +19,32 @@ public:
         // vector<vector<int>> dp(n, vector<int>(2, -1));
         // return solve(0, 1, fee, prices, dp);
 
-        vector<vector<int>> tab(n+1, vector<int>(2, 0));
-        vector<int> cur(2, 0), after(2, 0);
-        for(int i = n-1; i >= 0; i--) 
-        {
-            for(int j = 0; j < 2; j++)
-            {
-                if(j) {
-                    cur[j] = max(-prices[i]+after[0], 0+after[1]);
-                    }
-                else {
-                    cur[j] = max(prices[i]+after[1]-fee, 0+after[0]);
-                }
+        // vector<vector<int>> tab(n+1, vector<int>(2, 0));
+        // vector<int> cur(2, 0), after(2, 0);
+        // for(int i = n-1; i >= 0; i--) 
+        // {
+        //     for(int j = 0; j < 2; j++)
+        //     {
+        //         if(j) {
+        //             cur[j] = max(-prices[i]+after[0], 0+after[1]);
+        //             }
+        //         else {
+        //             cur[j] = max(prices[i]+after[1]-fee, 0+after[0]);
+        //         }
+        //     }
+        //     after = cur;
+        // }
+        // return after[1];
+
+        int buy = INT_MAX, maxi = 0;
+
+        for(auto price: prices){
+            if(price-fee > buy){
+                maxi += price-fee-buy;
+                buy = price-fee;
             }
-            after = cur;
+            buy = min(buy, price);
         }
-        return after[1];
+        return maxi;
     }
 };
