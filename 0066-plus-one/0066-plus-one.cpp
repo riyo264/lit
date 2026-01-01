@@ -2,19 +2,19 @@ class Solution {
 public:
     vector<int> plusOne(vector<int>& v) {
         int n = v.size();
-        for(int i = n-1; i >= 0; i--){
-            if(i == n-1)
-                v[i]++;
-            if(v[i] == 10){
-                v[i] = 0;
-                if(i != 0){
-                    v[i-1]++;
-                }
-                else{
-                    v.push_back(0);
-                    v[i] = 1;
-                }
+        if(v[n-1] != 9) {
+            v[n-1]++;
+            return v;
+        }
+        int i = n-1;
+        while(v[i] == 9) {
+            if(i == 0) {
+                v[i] = 1;
+                v.push_back(0);
+                break;
             }
+            v[i] = 0;
+            i--;
         }
         return v;
     }
