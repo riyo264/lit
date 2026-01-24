@@ -5,11 +5,9 @@ public:
         sort(nums.begin(), nums.end());
         int i = 0;
         int j = n-1;
-        int ans = INT_MIN;
+        int ans = 0;
         while(i < j) {
-            ans = max(ans, (nums[i] + nums[j]));
-            i++;
-            j--;
+            ans = max(ans, (nums[i++] + nums[j--]));
         }
         return ans;
     }
