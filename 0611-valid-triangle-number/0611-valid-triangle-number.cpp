@@ -6,13 +6,15 @@ public:
         int r = n-1;
         int ans = 0;
         while(r > 1) {
-            for(int i = 0; i <= r-2; i++)
-            {
-                for(int j = 1; j <= r-1; j++) 
-                {
-                    if((i != j) && nums[i] + nums[j] > nums[r]) {
-                        ans++;
-                    }
+            int i = 0; 
+            int j = r-1;
+            while(i < j) {
+                if(nums[i] + nums[j] > nums[r]) {
+                    ans += (j - i);     // keeping the j index fixed and taking all pairs of numbers by increasing i
+                    j--;
+                }
+                else{
+                    i++;
                 }
             }
             r--;
