@@ -1,8 +1,8 @@
 class Solution {
 public:
     int reverseBits(int n) {
-        bitset<32> binary_representation(n);
-        string s = binary_representation.to_string();
+        bitset<32> bin(n);
+        string s = bin.to_string();
         reverse(s.begin(), s.end());
         int a = 0;
         for(int i = 0; i < 32; i++)
