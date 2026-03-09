@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/riyo264/lit/tree/main/0010-regular-expression-matching/) | Hard |
 | [0338-counting-bits](https://github.com/riyo264/lit/tree/master/0338-counting-bits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/riyo264/lit/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/riyo264/lit/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/riyo264/lit/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 <!---LeetCode Topics End-->
