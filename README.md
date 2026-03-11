@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/riyo264/lit/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/riyo264/lit/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/riyo264/lit/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
