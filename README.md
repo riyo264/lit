@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/riyo264/lit/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/riyo264/lit/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/riyo264/lit/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/riyo264/lit/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
