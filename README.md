@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/riyo264/lit/tree/main/0010-regular-expression-matching/) | Hard |
 | [0338-counting-bits](https://github.com/riyo264/lit/tree/master/0338-counting-bits) |
+| [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/riyo264/lit/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/riyo264/lit/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/riyo264/lit/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/riyo264/lit/tree/main/0010-regular-expression-matching/) | Hard |
+| [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/riyo264/lit/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -84,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/riyo264/lit/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 <!---LeetCode Topics End-->
