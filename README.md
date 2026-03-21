@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/riyo264/lit/tree/master/0338-counting-bits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/riyo264/lit/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/riyo264/lit/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/riyo264/lit/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/riyo264/lit/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/riyo264/lit/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 <!---LeetCode Topics End-->
