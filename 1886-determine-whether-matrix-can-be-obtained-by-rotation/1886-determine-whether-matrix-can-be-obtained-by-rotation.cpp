@@ -16,23 +16,7 @@ public:
                     temp[j][(m-1)-i] = mat[i][j];
                 }
             }
-            bool match = true;
-            for(int i = 0; i < n; i++)
-            {
-                bool flag = true;
-                for(int j = 0; j < m; j++)
-                {
-                    if(temp[i][j] != target[i][j]) {
-                        flag = false;
-                        break;
-                    }
-                }
-                if(!flag) {
-                    match = false;
-                    break;
-                }
-            }
-            if(match) {
+            if(temp == target) {
                 return true;
             }
             mat = temp;
