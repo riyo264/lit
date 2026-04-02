@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/riyo264/lit/tree/main/0010-regular-expression-matching/) | Hard |
+| [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/riyo264/lit/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/riyo264/lit/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/riyo264/lit/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/riyo264/lit/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
+| [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [1861-rotating-the-box](https://github.com/riyo264/lit/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/riyo264/lit/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyo264/lit/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/riyo264/lit/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/riyo264/lit/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
