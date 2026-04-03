@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/riyo264/lit/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/riyo264/lit/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/riyo264/lit/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/riyo264/lit/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/riyo264/lit/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/riyo264/lit/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/riyo264/lit/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/riyo264/lit/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/riyo264/lit/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/riyo264/lit/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/riyo264/lit/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/riyo264/lit/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/riyo264/lit/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
