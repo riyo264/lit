@@ -4,36 +4,34 @@ public:
         int n = s.size();
         int m = words.size();
         int k = words[0].size();
+        int limit = m*k;
+        int i = 0, j = limit-1;
+        vector<int> ans;
         unordered_map<string, int> mpp1;
-        for(string it : words) {
+        for(string it : words) 
+        {
             mpp1[it]++;
         }
-        vector<int> ans;
-        for(int offset = 0; offset < k; offset++) {
-            int i = offset;
-            int count = 0;
+        while(j < n) {
             unordered_map<string, int> mpp;
-            for(int j = offset; j + k <= n; j += k) {
-                string word = s.substr(j, k);
-                if(mpp1.count(word)) {
-                    mpp[word]++;
-                    count++;
-                    while(mpp[word] > mpp1[word]) {
-                        string leftWord = s.substr(i, k);
-                        mpp[leftWord]--;
-                        i += k;
-                        count--;
-                    }
-                    if(count == m) {
-                        ans.push_back(i);
+            string t = "";
+            for(int a = i; a <= j+1; a++)
+            {
+                if(t.size() == k) {
+                    mpp[t]++;
+                    if(a < n) {
+                        t = s[a];
                     }
                 }
                 else {
-                    mpp.clear();
-                    count = 0;
-                    i = j + k;
+                    t += s[a];
                 }
             }
+            if(mpp == mpp1) {
+                ans.push_back(i);
+            }
+            i += k;
+            j += k;
         }
         return ans;
     }
