@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/riyo264/lit/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/riyo264/lit/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/riyo264/lit/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/riyo264/lit/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/riyo264/lit/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3668-restore-finishing-order](https://github.com/riyo264/lit/tree/main/3668-restore-finishing-order/) | Easy |
 ## Matrix
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/riyo264/lit/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/riyo264/lit/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
