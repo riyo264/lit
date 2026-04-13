@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/riyo264/lit/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/riyo264/lit/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riyo264/lit/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyo264/lit/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2751-robot-collisions](https://github.com/riyo264/lit/tree/main/2751-robot-collisions/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyo264/lit/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/riyo264/lit/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riyo264/lit/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
