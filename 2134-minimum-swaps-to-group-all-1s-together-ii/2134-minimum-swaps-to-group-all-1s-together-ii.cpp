@@ -11,27 +11,6 @@ public:
         }
         int l = 0;
         int r = ones-1;
-        // int cur = 0;
-        // for(int i = l; i <= r; i++) {
-        //     if(nums[i] == 1) {
-        //         cur++;
-        //     }
-        // }
-        // while(r < 2*n-1) {
-        //     if(ones == cur) {
-        //         return 0;
-        //     }
-        //     if(nums[l%n] == 1) {
-        //         cur--;
-        //     }
-        //     if(nums[(r+1)%n] == 1) {
-        //         cur++;
-        //     }
-        //     l++;
-        //     r++;
-        // }
-        // l = 0;
-        // r = ones-1;
         int o = 0;
         for(int i = l; i <= r; i++)
         {
