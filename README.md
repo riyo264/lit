@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyo264/lit/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/riyo264/lit/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
+| [0065-valid-number](https://github.com/riyo264/lit/tree/main/0065-valid-number/) | Hard |
 | [0071-simplify-path](https://github.com/riyo264/lit/tree/main/0071-simplify-path/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/riyo264/lit/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
