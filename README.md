@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/riyo264/lit/tree/main/0043-multiply-strings/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/riyo264/lit/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/riyo264/lit/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/riyo264/lit/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/riyo264/lit/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/riyo264/lit/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -227,8 +228,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/riyo264/lit/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/riyo264/lit/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/riyo264/lit/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/riyo264/lit/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/riyo264/lit/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 <!---LeetCode Topics End-->
