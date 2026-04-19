@@ -13,6 +13,9 @@ public:
             }
             else {
                 i++;
+                if(i > j) {
+                    j = i;
+                }
             }
         }
         return dist;
