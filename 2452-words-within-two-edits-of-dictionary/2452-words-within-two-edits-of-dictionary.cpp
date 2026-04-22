@@ -15,6 +15,7 @@ public:
                 for(int k = 0; k < d.size(); k++)
                 {
                     if(q[k] != d[k] && cnt == 2) {
+                        cnt++;
                         break;
                     }
                     else if(q[k] != d[k]) {
