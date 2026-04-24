@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/riyo264/lit/tree/main/0071-simplify-path/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/riyo264/lit/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/riyo264/lit/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/riyo264/lit/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/riyo264/lit/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/riyo264/lit/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/riyo264/lit/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/riyo264/lit/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/riyo264/lit/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/riyo264/lit/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/riyo264/lit/tree/main/2751-robot-collisions/) | Hard |
