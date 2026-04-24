@@ -16,12 +16,6 @@ public:
                 a++;
             }
         } 
-        // if(l == 0) {
-        //     return a+r;
-        // }
-        // else if(r == 0) {
-        //     return l+a;
-        // }
         return abs(l-r) + a;
     }
 };
