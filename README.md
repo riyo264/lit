@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/riyo264/lit/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/riyo264/lit/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/riyo264/lit/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/riyo264/lit/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/riyo264/lit/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/riyo264/lit/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/riyo264/lit/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/riyo264/lit/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/riyo264/lit/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
