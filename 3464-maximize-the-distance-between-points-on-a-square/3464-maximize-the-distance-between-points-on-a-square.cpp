@@ -17,6 +17,7 @@ public:
         }
         return false;
     }
+
     int maxDistance(int side, vector<vector<int>>& points, int k) {
         vector<long long> clk;
         for(auto &p : points) {
@@ -36,6 +37,7 @@ public:
         }
         sort(clk.begin(), clk.end());
         long long peri = 4LL * side;
+
 
         int l = 1;
         int r = peri/k;
