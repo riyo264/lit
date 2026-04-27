@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/riyo264/lit/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyo264/lit/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2751-robot-collisions](https://github.com/riyo264/lit/tree/main/2751-robot-collisions/) | Hard |
+| [3701-compute-alternating-sum](https://github.com/riyo264/lit/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/riyo264/lit/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/riyo264/lit/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3668-restore-finishing-order](https://github.com/riyo264/lit/tree/main/3668-restore-finishing-order/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/riyo264/lit/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/riyo264/lit/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/riyo264/lit/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/riyo264/lit/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
