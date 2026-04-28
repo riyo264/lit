@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/riyo264/lit/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/riyo264/lit/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyo264/lit/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riyo264/lit/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyo264/lit/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1861-rotating-the-box](https://github.com/riyo264/lit/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/riyo264/lit/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyo264/lit/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/riyo264/lit/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/riyo264/lit/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/riyo264/lit/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/riyo264/lit/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/riyo264/lit/tree/main/2751-robot-collisions/) | Hard |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/riyo264/lit/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/riyo264/lit/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/riyo264/lit/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/riyo264/lit/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/riyo264/lit/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/riyo264/lit/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
