@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/riyo264/lit/tree/main/0010-regular-expression-matching/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/riyo264/lit/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/riyo264/lit/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/riyo264/lit/tree/main/0396-rotate-function/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/riyo264/lit/tree/main/0065-valid-number/) | Hard |
 | [0071-simplify-path](https://github.com/riyo264/lit/tree/main/0071-simplify-path/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/riyo264/lit/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/riyo264/lit/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/riyo264/lit/tree/main/0046-permutations/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/riyo264/lit/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
