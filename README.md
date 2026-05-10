@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/riyo264/lit/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/riyo264/lit/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/riyo264/lit/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyo264/lit/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/riyo264/lit/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/riyo264/lit/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/riyo264/lit/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/riyo264/lit/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/riyo264/lit/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/riyo264/lit/tree/main/2751-robot-collisions/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyo264/lit/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyo264/lit/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/riyo264/lit/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
