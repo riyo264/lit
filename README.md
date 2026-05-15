@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/riyo264/lit/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/riyo264/lit/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/riyo264/lit/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/riyo264/lit/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/riyo264/lit/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/riyo264/lit/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/riyo264/lit/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/riyo264/lit/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/riyo264/lit/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/riyo264/lit/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/riyo264/lit/tree/main/2615-sum-of-distances/) | Medium |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/riyo264/lit/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/riyo264/lit/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/riyo264/lit/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/riyo264/lit/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
