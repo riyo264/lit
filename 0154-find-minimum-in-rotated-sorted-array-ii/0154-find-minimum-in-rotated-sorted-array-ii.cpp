@@ -26,10 +26,10 @@ public:
             {
                 if(ans == -1 || ans > nums[low]){
                 ans = nums[low];
-                low = mid + 1;
+                    low = mid + 1;
                 }
                 else{
-                low = mid + 1;
+                    low = mid + 1;
                 }
             }
             else if((nums[mid]<nums[high] && nums[mid]<=nums[low])||(nums[mid]<=nums[high] && nums[mid]<nums[low]))
