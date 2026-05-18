@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/riyo264/lit/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyo264/lit/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/riyo264/lit/tree/main/1345-jump-game-iv/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/riyo264/lit/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/riyo264/lit/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1345-jump-game-iv](https://github.com/riyo264/lit/tree/main/1345-jump-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/riyo264/lit/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyo264/lit/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/riyo264/lit/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/riyo264/lit/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/riyo264/lit/tree/main/1345-jump-game-iv/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/riyo264/lit/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
