@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/riyo264/lit/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/riyo264/lit/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyo264/lit/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riyo264/lit/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riyo264/lit/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/riyo264/lit/tree/main/0436-find-right-interval/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/riyo264/lit/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/riyo264/lit/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/riyo264/lit/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/riyo264/lit/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/riyo264/lit/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/riyo264/lit/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/riyo264/lit/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyo264/lit/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/riyo264/lit/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/riyo264/lit/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
