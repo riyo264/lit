@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/riyo264/lit/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/riyo264/lit/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/riyo264/lit/tree/main/1861-rotating-the-box/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/riyo264/lit/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/riyo264/lit/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/riyo264/lit/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyo264/lit/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyo264/lit/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0436-find-right-interval](https://github.com/riyo264/lit/tree/main/0436-find-right-interval/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/riyo264/lit/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/riyo264/lit/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/riyo264/lit/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/riyo264/lit/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
