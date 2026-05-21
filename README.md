@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/riyo264/lit/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/riyo264/lit/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/riyo264/lit/tree/main/0097-interleaving-string/) | Medium |
+| [0120-triangle](https://github.com/riyo264/lit/tree/main/0120-triangle/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/riyo264/lit/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/riyo264/lit/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/riyo264/lit/tree/main/0376-wiggle-subsequence/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/riyo264/lit/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
+| [0120-triangle](https://github.com/riyo264/lit/tree/main/0120-triangle/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyo264/lit/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyo264/lit/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/riyo264/lit/tree/main/0376-wiggle-subsequence/) | Medium |
