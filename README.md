@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/riyo264/lit/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/riyo264/lit/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/riyo264/lit/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/riyo264/lit/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/riyo264/lit/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyo264/lit/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/riyo264/lit/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/riyo264/lit/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyo264/lit/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/riyo264/lit/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/riyo264/lit/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/riyo264/lit/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/riyo264/lit/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/riyo264/lit/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/riyo264/lit/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/riyo264/lit/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/riyo264/lit/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/riyo264/lit/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/riyo264/lit/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/riyo264/lit/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
