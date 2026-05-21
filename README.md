@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/riyo264/lit/tree/main/0010-regular-expression-matching/) | Hard |
 | [0062-unique-paths](https://github.com/riyo264/lit/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/riyo264/lit/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/riyo264/lit/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/riyo264/lit/tree/main/0097-interleaving-string/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/riyo264/lit/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/riyo264/lit/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/riyo264/lit/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
+| [0064-minimum-path-sum](https://github.com/riyo264/lit/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyo264/lit/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyo264/lit/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/riyo264/lit/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/riyo264/lit/tree/main/0064-minimum-path-sum/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/riyo264/lit/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
