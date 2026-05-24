@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/riyo264/lit/tree/main/0788-rotated-digits/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/riyo264/lit/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/riyo264/lit/tree/main/1340-jump-game-v/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/riyo264/lit/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/riyo264/lit/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyo264/lit/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/riyo264/lit/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyo264/lit/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/riyo264/lit/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/riyo264/lit/tree/main/1345-jump-game-iv/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
 | [0436-find-right-interval](https://github.com/riyo264/lit/tree/main/0436-find-right-interval/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [1340-jump-game-v](https://github.com/riyo264/lit/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/riyo264/lit/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
