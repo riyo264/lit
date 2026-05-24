@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/riyo264/lit/tree/main/0065-valid-number/) | Hard |
 | [0071-simplify-path](https://github.com/riyo264/lit/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/riyo264/lit/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/riyo264/lit/tree/main/0097-interleaving-string/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/riyo264/lit/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/riyo264/lit/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/riyo264/lit/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/riyo264/lit/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/riyo264/lit/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/riyo264/lit/tree/main/0120-triangle/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riyo264/lit/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/riyo264/lit/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/riyo264/lit/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/riyo264/lit/tree/main/0079-word-search/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/riyo264/lit/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/riyo264/lit/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/riyo264/lit/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/riyo264/lit/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/riyo264/lit/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/riyo264/lit/tree/main/0079-word-search/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyo264/lit/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/riyo264/lit/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
