@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/riyo264/lit/tree/main/0010-regular-expression-matching/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/riyo264/lit/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/riyo264/lit/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/riyo264/lit/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/riyo264/lit/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/riyo264/lit/tree/main/0061-rotate-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
