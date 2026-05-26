@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/riyo264/lit/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/riyo264/lit/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/riyo264/lit/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/riyo264/lit/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/riyo264/lit/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/riyo264/lit/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/riyo264/lit/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/riyo264/lit/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/riyo264/lit/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/riyo264/lit/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/riyo264/lit/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3668-restore-finishing-order](https://github.com/riyo264/lit/tree/main/3668-restore-finishing-order/) | Easy |
