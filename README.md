@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/riyo264/lit/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/riyo264/lit/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/riyo264/lit/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/riyo264/lit/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/riyo264/lit/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/riyo264/lit/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyo264/lit/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/riyo264/lit/tree/main/0436-find-right-interval/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1340-jump-game-v](https://github.com/riyo264/lit/tree/main/1340-jump-game-v/) | Hard |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/riyo264/lit/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/riyo264/lit/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/riyo264/lit/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0788-rotated-digits](https://github.com/riyo264/lit/tree/main/0788-rotated-digits/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/riyo264/lit/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/riyo264/lit/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/riyo264/lit/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/riyo264/lit/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/riyo264/lit/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/riyo264/lit/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/riyo264/lit/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/riyo264/lit/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/riyo264/lit/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/riyo264/lit/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/riyo264/lit/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -458,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/riyo264/lit/tree/main/0062-unique-paths/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/riyo264/lit/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 <!---LeetCode Topics End-->
