@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyo264/lit/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/riyo264/lit/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/riyo264/lit/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/riyo264/lit/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/riyo264/lit/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/riyo264/lit/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/riyo264/lit/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/riyo264/lit/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/riyo264/lit/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/riyo264/lit/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3161-block-placement-queries](https://github.com/riyo264/lit/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/riyo264/lit/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/riyo264/lit/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/riyo264/lit/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -473,4 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/riyo264/lit/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/riyo264/lit/tree/main/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/riyo264/lit/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
