@@ -486,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/riyo264/lit/tree/main/3161-block-placement-queries/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/riyo264/lit/tree/main/0177-nth-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
