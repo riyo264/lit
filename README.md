@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyo264/lit/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/riyo264/lit/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/riyo264/lit/tree/main/0049-group-anagrams/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/riyo264/lit/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/riyo264/lit/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/riyo264/lit/tree/main/0833-find-and-replace-in-string/) | Medium |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/riyo264/lit/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riyo264/lit/tree/main/0088-merge-sorted-array/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/riyo264/lit/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0763-partition-labels](https://github.com/riyo264/lit/tree/main/0763-partition-labels/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/riyo264/lit/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/riyo264/lit/tree/main/1861-rotating-the-box/) | Medium |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/riyo264/lit/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/riyo264/lit/tree/main/0061-rotate-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/riyo264/lit/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
